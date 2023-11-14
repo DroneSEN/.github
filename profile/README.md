@@ -1,3 +1,3 @@
 ## Hello
 
-Equipe du projet DRONE des SEN-4 de l'ESTACA.
+Equipe du projet DRONE de la filière Systèmes Embarqués et Numériques (SEN) de l'ESTACA.
